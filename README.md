@@ -1,3 +1,6 @@
 # Garden Simulator
 ## Video preview
-![gardenSimulator](https://github.com/SkowKyubu/ST_OOP_GardenSimulator/assets/120100522/5512a28f-55c6-4ce7-a88e-74dcb3be3078)
+
+
+https://github.com/SkowKyubu/ST_OOP_GardenSimulator/assets/120100522/eb3ecd2d-9a12-442a-931e-4861c180ca4d
+
